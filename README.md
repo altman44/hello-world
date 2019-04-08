@@ -1,4 +1,4 @@
 # hello-world
-Este es nuestro repositorio
-Bueno, nuestros nombres son Nicolás y estamos haciendo un trabajo para la materia Seminario.
+Este es nuestro repositorio.
+Somos los Nikitos.
 ![GitHub Logo](GitHubCat.png)
