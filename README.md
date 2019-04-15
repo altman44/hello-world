@@ -8,8 +8,6 @@
                 
 # Frase1
   
-# Item 2
-  Frase 2
+# Frase 2
   
-# Item 3
-  <h3>Frase 3
+# Frase 3
