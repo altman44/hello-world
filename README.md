@@ -1,6 +1,6 @@
 # hello-world
-Este es nuestro repositorio.
-Somos los Nikitos.
+Este es nuestro repositorio.Y esto es...
 
 
 ![GitHub Logo](GitHubCat.png)
+GitHub!
