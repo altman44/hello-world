@@ -6,8 +6,8 @@
 
                 GitHub!
                 
-# Frase1
+# Frase1 normal
   
-## Frase 2
+## Frase 2 bold
   
-### Frase 3
+### _Frase 3 italic
