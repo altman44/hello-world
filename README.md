@@ -8,6 +8,6 @@
                 
 # Frase1 normal
   
-## Frase 2 bold
+## Frase 2
   
 ### _Frase 3 italic_
